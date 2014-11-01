@@ -4,10 +4,8 @@
   <artifactId>zino-core</artifactId>
   <versioning>
     <versions>
-      <version>1.0-SNAPSHOT</version>
-      <version>1.2-SNAPSHOT</version>
-      <version>1.2.2-SNAPSHOT</version>
+      <version>1.2.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20141025144438</lastUpdated>
+    <lastUpdated>20141101095337</lastUpdated>
   </versioning>
 </metadata>
