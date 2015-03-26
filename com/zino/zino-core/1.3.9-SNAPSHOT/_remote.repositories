@@ -1,4 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Mar 25 22:38:39 CST 2015
-zino-core-1.3.9-SNAPSHOT.jar>=
-zino-core-1.3.9-SNAPSHOT.pom>=
+#Wed Mar 25 22:42:48 CST 2015
+zino-core-1.3.9-20150325.133903-1.jar>zino-rep=
+zino-core-1.3.9-20150325.133903-1.pom>zino-rep=
