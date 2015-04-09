@@ -4,7 +4,7 @@
 
     <groupId>com.zino</groupId>
     <artifactId>zino-platform</artifactId>
-    <version>1.4.1-SNAPSHOT</version>
+    <version>1.4.2-SNAPSHOT</version>
     <packaging>war</packaging>
 
     <name>zino-platform</name>
@@ -18,7 +18,7 @@
         <dependency>
             <groupId>${project.groupId}</groupId>
             <artifactId>zino-core</artifactId>
-            <version>1.4.2-SNAPSHOT</version>
+            <version>1.4.3-SNAPSHOT</version>
         </dependency>
         
         <!-- Shiro security -->

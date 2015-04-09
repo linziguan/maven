@@ -2,28 +2,28 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.zino</groupId>
   <artifactId>zino-platform</artifactId>
-  <version>1.4.1-SNAPSHOT</version>
+  <version>1.4.2-SNAPSHOT</version>
   <versioning>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20150409011958</lastUpdated>
+    <lastUpdated>20150409015834</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <classifier>api</classifier>
         <extension>jar</extension>
-        <value>1.4.1-SNAPSHOT</value>
-        <updated>20150409011958</updated>
+        <value>1.4.2-SNAPSHOT</value>
+        <updated>20150409015834</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>war</extension>
-        <value>1.4.1-SNAPSHOT</value>
-        <updated>20150409011958</updated>
+        <value>1.4.2-SNAPSHOT</value>
+        <updated>20150409015834</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.4.1-SNAPSHOT</value>
-        <updated>20150409011958</updated>
+        <value>1.4.2-SNAPSHOT</value>
+        <updated>20150409015834</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

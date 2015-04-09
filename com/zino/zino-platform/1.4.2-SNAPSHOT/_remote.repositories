@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 09 09:58:34 CST 2015
+zino-platform-1.4.2-SNAPSHOT-api.jar>=
+zino-platform-1.4.2-SNAPSHOT.pom>=
+zino-platform-1.4.2-SNAPSHOT.war>=
