@@ -2,22 +2,22 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.zino</groupId>
   <artifactId>zino-core</artifactId>
-  <version>1.4.4-SNAPSHOT</version>
+  <version>1.4.5-SNAPSHOT</version>
   <versioning>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20150422144409</lastUpdated>
+    <lastUpdated>20150427133254</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.4.4-SNAPSHOT</value>
-        <updated>20150422144409</updated>
+        <value>1.4.5-SNAPSHOT</value>
+        <updated>20150427133254</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.4.4-SNAPSHOT</value>
-        <updated>20150422144409</updated>
+        <value>1.4.5-SNAPSHOT</value>
+        <updated>20150427133254</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

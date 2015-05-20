@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue May 19 08:46:59 CST 2015
+zino-platform-queryDef-1.0.1-SNAPSHOT.pom>=
+zino-platform-queryDef-1.0.1-SNAPSHOT-api.jar>=
+zino-platform-queryDef-1.0.1-SNAPSHOT.war>=
