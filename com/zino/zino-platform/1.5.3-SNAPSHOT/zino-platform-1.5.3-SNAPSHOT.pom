@@ -18,7 +18,7 @@
     	<dependency>
             <groupId>${project.groupId}</groupId>
             <artifactId>zino-core</artifactId>
-            <version>1.4.8-SNAPSHOT</version>
+            <version>1.5.0-SNAPSHOT</version>
         </dependency>
         
         <!-- Shiro security -->
@@ -60,11 +60,6 @@
             <artifactId>javaee-web-api</artifactId>
             <version>7.0</version>
             <scope>provided</scope>
-        </dependency>
-        <dependency>
-                <groupId>net.sf.jmimemagic</groupId>
-                <artifactId>jmimemagic</artifactId>
-                <version>0.1.4</version>
         </dependency>
         <dependency>
                 <groupId>commons-codec</groupId>
@@ -120,12 +115,14 @@
                 <configuration>
                     <excludes>
                         <exclude>**/applicationContext-security.xml</exclude>
+                        <exclude>**/applicationContext-mvc.xml</exclude>
                         <exclude>**/config.properties</exclude>
                         <exclude>**/jdbc.properties</exclude>
                         <exclude>**/log4j.properties</exclude>
                         <exclude>**/ehcache.xml</exclude>
                         <exclude>**/j2cache.properties</exclude>
                         <exclude>**/network.xml</exclude>
+                        <exclude>**/properties.lst</exclude>
                     </excludes>
                 </configuration>
             </plugin>
