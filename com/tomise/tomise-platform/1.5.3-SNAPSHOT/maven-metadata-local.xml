@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.tomise</groupId>
+  <artifactId>tomise-platform</artifactId>
+  <version>1.5.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20150813040241</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>api</classifier>
+        <extension>jar</extension>
+        <value>1.5.3-SNAPSHOT</value>
+        <updated>20150813040241</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>war</extension>
+        <value>1.5.3-SNAPSHOT</value>
+        <updated>20150813040241</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.5.3-SNAPSHOT</value>
+        <updated>20150813040241</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
