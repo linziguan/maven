@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.wiseMen</groupId>
+  <artifactId>wiseMen-ddl</artifactId>
+  <versioning>
+    <versions>
+      <version>1.2.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150826023839</lastUpdated>
+  </versioning>
+</metadata>
