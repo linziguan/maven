@@ -4,7 +4,7 @@
 
     <groupId>com.wiseMen</groupId>
     <artifactId>wiseMen-platform</artifactId>
-    <version>1.5.3-SNAPSHOT</version>
+    <version>1.5.4-SNAPSHOT</version>
     <packaging>war</packaging>
 
     <name>wiseMen-platform</name>
@@ -18,7 +18,7 @@
     	<dependency>
             <groupId>${project.groupId}</groupId>
             <artifactId>wiseMen-core</artifactId>
-            <version>1.5.2-SNAPSHOT</version>
+            <version>1.5.3-SNAPSHOT</version>
         </dependency>
         
         <!-- Shiro security -->
@@ -70,6 +70,16 @@
 			<groupId>com.github.stuxuhai</groupId>
 			<artifactId>jpinyin</artifactId>
 			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-jms</artifactId>
+			<version>4.2.0.RELEASE</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.activemq</groupId>
+			<artifactId>activemq-all</artifactId>
+			<version>5.12.0</version>
 		</dependency>
 		
 		
@@ -126,6 +136,7 @@
                     <excludes>
                         <exclude>**/applicationContext-security.xml</exclude>
                         <exclude>**/applicationContext-mvc-admin.xml</exclude>
+                        <exclude>**/applicationContext-jms.xml</exclude>
                         <exclude>**/config.properties</exclude>
                         <exclude>**/jdbc.properties</exclude>
                         <exclude>**/log4j.properties</exclude>
