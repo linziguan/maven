@@ -71,7 +71,8 @@
                 <configuration>
                     <excludes>
                         <exclude>**/applicationContext-security.xml</exclude>
-                        <exclude>**/applicationContext-mvc.xml</exclude>
+                        <exclude>**/applicationContext-mvc-admin.xml</exclude>
+                        <exclude>**/applicationContext-jms.xml</exclude>
                         <exclude>**/config.properties</exclude>
                         <exclude>**/jdbc.properties</exclude>
                         <exclude>**/log4j.properties</exclude>
