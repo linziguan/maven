@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jun 21 21:50:52 CST 2016
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact com.baidu.ueditor\:ueditor\:pom\:1.1.2 from/to nexus-osc (http\://maven.oschina.net/content/groups/public/)\: Failed to transfer file\: http\://maven.oschina.net/content/groups/public/com/baidu/ueditor/ueditor/1.1.2/ueditor-1.1.2.pom. Return code is\: 504 , ReasonPhrase\:Gateway Time-out.
+http\://maven.alfresco.com/nexus/content/repositories/activiti/.error=
+https\://github.com/linziguan/maven/raw/master/.lastUpdated=1466478598684
+@default-nexus-osc-http\://maven.oschina.net/content/groups/public/.lastUpdated=1462772689603
+http\://maven.alfresco.com/nexus/content/repositories/activiti/.lastUpdated=1466478597594
+https\://github.com/linziguan/maven/raw/master/.error=
+http\://61.143.150.165\:8005/nexus/content/groups/public/.lastUpdated=1466517052761
+http\://61.143.150.165\:8005/nexus/content/groups/public/.error=
+http\://repo1.maven.org/maven2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1466478599336
