@@ -124,7 +124,16 @@
 		    <artifactId>poi-ooxml</artifactId>
 		    <version>3.14</version>
 		</dependency>
-		
+		<dependency>
+		    <groupId>net.sf.ehcache</groupId>
+		    <artifactId>ehcache-web</artifactId>
+		    <version>2.0.4</version>
+		</dependency>
+		<dependency>
+		  <groupId>com.sourceclear.headlines</groupId>
+		  <artifactId>complete</artifactId>
+		  <version>0.1.6</version>    
+		</dependency>
     </dependencies>
 
     <build>
