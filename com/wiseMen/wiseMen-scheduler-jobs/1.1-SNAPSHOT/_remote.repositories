@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Aug 09 23:48:17 CST 2016
+wiseMen-scheduler-jobs-1.1-SNAPSHOT.pom>=
+wiseMen-scheduler-jobs-1.1-SNAPSHOT-api.jar>=
+wiseMen-scheduler-jobs-1.1-SNAPSHOT.war>=

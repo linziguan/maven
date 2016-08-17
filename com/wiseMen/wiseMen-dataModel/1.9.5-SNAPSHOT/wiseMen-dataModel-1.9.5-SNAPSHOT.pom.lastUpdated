@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jul 27 21:31:25 CST 2016
+@default-Activiti-http\://maven.alfresco.com/nexus/content/repositories/activiti/.lastUpdated=1469626283550
+http\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1469626283480
+https\://github.com/linziguan/maven/raw/master/.lastUpdated=1469626285300
+http\://61.143.150.165\:8005/nexus/content/groups/public/.lastUpdated=1469626283545
+http\://oss.sonatype.org/content/repositories/snapshots/.error=
+http\://maven.alfresco.com/nexus/content/repositories/activiti/.error=Could not transfer artifact com.wiseMen\:wiseMen-dataModel\:pom\:1.9.5-SNAPSHOT from/to Activiti (http\://maven.alfresco.com/nexus/content/repositories/activiti/)\: maven.alfresco.com
+https\://github.com/linziguan/maven/raw/master/.error=
+http\://61.143.150.165\:8005/nexus/content/groups/public/.error=
