@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 19 08:13:03 CST 2016
+http\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1471565579858
+http\://maven.alfresco.com/nexus/content/repositories/activiti/.lastUpdated=1471565581868
+https\://github.com/linziguan/maven/raw/master/.lastUpdated=1471565583710
+http\://61.143.150.165\:8005/nexus/content/groups/public/.lastUpdated=1471565579928
+http\://oss.sonatype.org/content/repositories/snapshots/.error=
+http\://maven.alfresco.com/nexus/content/repositories/activiti/.error=
+https\://github.com/linziguan/maven/raw/master/.error=
+http\://61.143.150.165\:8005/nexus/content/groups/public/.error=
