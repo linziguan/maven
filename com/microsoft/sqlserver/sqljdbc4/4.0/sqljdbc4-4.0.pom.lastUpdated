@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Aug 18 23:54:41 CST 2016
+@default-zino-rep-https\://github.com/linziguan/maven/raw/master/.lastUpdated=1471535681296
+@default-Activiti-http\://maven.alfresco.com/nexus/content/repositories/activiti/.lastUpdated=1471535681293
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact com.microsoft.sqlserver\:sqljdbc4\:pom\:4.0 from/to repo1-osc (http\://repo1.maven.org/maven2)\: repo1.maven.org
+http\://maven.alfresco.com/nexus/content/repositories/activiti/.error=Could not transfer artifact com.microsoft.sqlserver\:sqljdbc4\:pom\:4.0 from/to Activiti (http\://maven.alfresco.com/nexus/content/repositories/activiti/)\: maven.alfresco.com
+@default-repo1-osc-http\://repo1.maven.org/maven2/.lastUpdated=1471535681306
+https\://github.com/linziguan/maven/raw/master/.error=Could not transfer artifact com.microsoft.sqlserver\:sqljdbc4\:pom\:4.0 from/to wiseMen-rep (https\://github.com/linziguan/maven/raw/master)\: github.com
+@default-wiseMen-rep-https\://github.com/linziguan/maven/raw/master/.lastUpdated=1471535681301
