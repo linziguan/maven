@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Oct 27 12:12:01 CST 2016
+wiseMen-platform-1.9.6-SNAPSHOT-api.jar>=
+wiseMen-platform-1.9.6-SNAPSHOT.pom>=
+wiseMen-platform-1.9.6-SNAPSHOT.war>=
